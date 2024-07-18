@@ -20,6 +20,8 @@ Furthermore, Quantum Biology is committed to an engaging and patient approach, e
 [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
 <br>
 [Biological Simulator](https://github.com/sourceduty/Biological_Simulator)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
